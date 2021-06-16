@@ -44,16 +44,6 @@
 
 <details>
   <summary>
-    ⚡ GitHub Languages
-  </summary>
-  
-  <img align="left" alt="StarbuckBarista's Github Languages" src="https://github-readme-stats-starbuckbarista.vercel.app/api/top-langs/?username=starbuckbarista&theme=darcula"/>
-</details>
-
----
-
-<details>
-  <summary>
     ⚡ GitHub Stats
   </summary>
   
