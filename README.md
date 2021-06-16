@@ -22,7 +22,7 @@
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/javascript/javascript.png"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png"/>
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/mongodb/mongodb.png"/>
-<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/github/github.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/github/github.png"/>
 <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/nodejs/nodejs.png"/>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/git/git.png"/>
 
@@ -33,7 +33,7 @@
 
 <details>
   <summary>
-    ⚡ Recent Github Activity
+    ⚡ Recent GitHub Activity
   </summary>
   
   <!--START_SECTION:activity-->
@@ -44,7 +44,7 @@
 
 <details>
   <summary>
-    ⚡ Github Languages
+    ⚡ GitHub Languages
   </summary>
   
   <img align="left" alt="StarbuckBarista's Github Languages" src="https://github-readme-stats-starbuckbarista.vercel.app/api/top-langs/?username=starbuckbarista&theme=darcula"/>
@@ -54,7 +54,7 @@
 
 <details>
   <summary>
-    ⚡ Github Stats
+    ⚡ GitHub Stats
   </summary>
   
   <img align="left" alt="StarbuckBarista's Github Stats" src="https://github-readme-stats-starbuckbarista.vercel.app/api?username=starbuckbarista&count_private=true&show_icons=true&theme=darcula"/>
