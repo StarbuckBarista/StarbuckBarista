@@ -4,7 +4,7 @@
 
 <br/>
 
-- 📕 I've just completed my (6.00.2x course)[6.00.2x]
+- 📕 I've just completed my [6.00.2x course][6.00.2x]
 - 🥅 2021 Goal: Explore a bit more into Flask and SSL
 - 🤓 Fun Fact: I love to compete in math compeitions
 
