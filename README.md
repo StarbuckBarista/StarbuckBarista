@@ -13,9 +13,10 @@
 [<img align="left" alt="StarbuckBarista | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
 [<img align="left" alt="StarbuckBarista | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/>][stackoverflow]
 
+<br/>
+
 ### Languages/Tools:
 
-<img align="left" alt="PyCharm" width="26px" src=""/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/css/css.png"/>
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/javascript/javascript.png"/>
@@ -28,8 +29,13 @@
 <br/>
 <br/>
 
+---
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
 <details>
   <summary>
     ⚡ Github Languages
@@ -37,6 +43,9 @@
   
   <img align="left" alt="StarbuckBarista's Github Languages" src="https://github-readme-stats-starbuckbarista.vercel.app/api/top-langs/?username=starbuckbarista&theme=darcula"/>
 </details>
+
+---
+
 <details>
   <summary>
     ⚡ Github Stats
