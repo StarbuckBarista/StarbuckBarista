@@ -87,6 +87,6 @@
 
 <p align="center">
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue <a href="https://github.com/Unitech/pm2/issues/4795">#4795</a> in [Unitech/pm2](https://github.com/Unitech/pm2)
+1. ❗️ Closed issue <a href="https://github.com/Unitech/pm2/issues/4795">#4795</a> in <a href="https://github.com/Unitech/pm2">Unitech/pm2</a>
   <!--END_SECTION:activity-->
 </p>
