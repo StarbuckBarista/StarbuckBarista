@@ -87,5 +87,6 @@
 
 <p align="center">
   <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#4795](https://github.com/Unitech/pm2/issues/4795) in [Unitech/pm2](https://github.com/Unitech/pm2)
   <!--END_SECTION:activity-->
 </p>
