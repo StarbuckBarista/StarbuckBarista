@@ -15,19 +15,19 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/StarbuckBarista/" target="_blank">
+  <a title="StarbuckBarista's GitHub" href="https://github.com/StarbuckBarista/" target="_blank">
     <img alt="StarbuckBarista's GitHub" height="25px" src="./icons/github.png"/>
   </a>
   &nbsp;
-  <a href="https://stackoverflow.com/users/12449444/starbuckbarista/" target="_blank">
+  <a title="StarbuckBarista's Stack Overflow" href="https://stackoverflow.com/users/12449444/starbuckbarista/" target="_blank">
     <img alt="StarbuckBarista's Stack Overflow" height="25px" src="./icons/stack_overflow.png"/>
   </a>
   &nbsp;
-  <a href="https://discord.com/users/348311499946721282/" target="_blank">
+  <a title="StarbuckBarista's Discord" href="https://discord.com/users/348311499946721282/" target="_blank">
     <img alt="StarbuckBarista's Discord" height="25px" src="./icons/discord.png"/>
   </a>
   &nbsp;
-  <a href="mailto:carlitos.salazar@protonmail.com" target="_blank">
+  <a title="StarbuckBarista's Email" href="mailto:carlitos.salazar@protonmail.com" target="_blank">
     <img alt="StarbuckBarista's Email" height="25px" src="./icons/proton_mail.png"/>
   </a>
 </p>
@@ -39,35 +39,35 @@
 </h3>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a title="HTML" href="" target="_blank">
     <img alt="HTML" height="25px" src="./icons/html.png"/>
   </a>
   &nbsp;
-  <a href="" target="_blank">
+  <a title="CSS" href="" target="_blank">
     <img alt="CSS" height="25px" src="./icons/css.png"/>
   </a>
   &nbsp;
-  <a href="" target="_blank">
-    <img alt="JavaScript" height="25px" src="./icons/javascript.png"/>
+  <a title="JavaScript" href="" target="_blank">
+    <img title="JavaScript" alt="JavaScript" height="25px" src="./icons/javascript.png"/>
   </a>
   &nbsp;
-  <a href="python.org" target="_blank">
+  <a title="Python" href="python.org" target="_blank">
     <img alt="Python" height="25px" src="./icons/python.png"/>
   </a>
   &nbsp;
-  <a href="" target="_blank">
+  <a title="Java" href="" target="_blank">
     <img alt="Java" height="25px" src="./icons/java.png"/>
   </a>
   &nbsp;
-  <a href="nodejs.org" target="_blank">
+  <a title="Node" href="nodejs.org" target="_blank">
     <img alt="Node" height="25px" src="./icons/node.png"/>
   </a>
   &nbsp;
-  <a href="mongodb.com" target="_blank">
+  <a title="MongoDB" href="mongodb.com" target="_blank">
     <img alt="MongoDB" height="25px" src="./icons/mongo.png"/>
   </a>
   &nbsp;
-  <a href="git-scm.com" target="_blank">
+  <a title="Git" href="git-scm.com" target="_blank">
     <img alt="Git" height="25px" src="./icons/git.png"/>
   </a>
 </p>
