@@ -83,6 +83,6 @@
 
 <p align="center">
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue <a href="https://github.com/Unitech/pm2/issues/4795">#4795</a> in <a href="https://github.com/Unitech/pm2">Unitech/pm2</a>
+1. 💪 Opened PR <a href="https://github.com/jamesgeorge007/github-activity-readme/pull/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a>
   <!--END_SECTION:activity-->
 </p>
