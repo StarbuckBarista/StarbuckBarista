@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there, <strong>I'm Carlos - StarbuckBarista</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hi there, <strong>I'm Carlos - StarbuckBarista</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 </h2>
 
 <p align="center">
@@ -16,19 +16,19 @@
 
 <p align="center">
   <a href="https://github.com/StarbuckBarista/" target="_blank">
-    <img alt="StarbuckBarista's GitHub" width="25px" src="./icons/github.png"/>
+    <img alt="StarbuckBarista's GitHub" height="25px" src="./icons/github.png"/>
   </a>
   &nbsp;
   <a href="https://stackoverflow.com/users/12449444/starbuckbarista/" target="_blank">
-    <img alt="StarbuckBarista's Stack Overflow" width="25px" src="./icons/stack_overflow.png"/>
+    <img alt="StarbuckBarista's Stack Overflow" height="25px" src="./icons/stack_overflow.png"/>
   </a>
   &nbsp;
   <a href="https://discord.com/users/348311499946721282/" target="_blank">
-    <img alt="StarbuckBarista's Discord" width="25px" src="./icons/discord.png"/>
+    <img alt="StarbuckBarista's Discord" height="25px" src="./icons/discord.png"/>
   </a>
   &nbsp;
   <a href="mailto:carlitos.salazar@protonmail.com" target="_blank">
-    <img alt="StarbuckBarista's Email" width="25px" src="./icons/proton_mail.png"/>
+    <img alt="StarbuckBarista's Email" height="25px" src="./icons/proton_mail.png"/>
   </a>
 </p>
 
@@ -40,35 +40,35 @@
 
 <p align="center">
   <a href="" target="_blank">
-    <img alt="HTML" width="25px" src="./icons/html.png"/>
+    <img alt="HTML" height="25px" src="./icons/html.png"/>
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img alt="CSS" width="25px" src="./icons/css.png"/>
+    <img alt="CSS" height="25px" src="./icons/css.png"/>
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img alt="JavaScript" width="25px" src="./icons/javascript.png"/>
+    <img alt="JavaScript" height="25px" src="./icons/javascript.png"/>
   </a>
   &nbsp;
   <a href="python.org" target="_blank">
-    <img alt="Python" width="25px" src="./icons/python.png"/>
+    <img alt="Python" height="25px" src="./icons/python.png"/>
   </a>
   &nbsp;
   <a href="" target="_blank">
-    <img alt="Java" width="25px" src="./icons/java.png"/>
+    <img alt="Java" height="25px" src="./icons/java.png"/>
   </a>
   &nbsp;
   <a href="nodejs.org" target="_blank">
-    <img alt="Node" width="25px" src="./icons/node.png"/>
+    <img alt="Node" height="25px" src="./icons/node.png"/>
   </a>
   &nbsp;
   <a href="mongodb.com" target="_blank">
-    <img alt="MongoDB" width="25px" src="./icons/mongo.png"/>
+    <img alt="MongoDB" height="25px" src="./icons/mongo.png"/>
   </a>
   &nbsp;
   <a href="git-scm.com" target="_blank">
-    <img alt="Git" width="25px" src="./icons/git.png"/>
+    <img alt="Git" height="25px" src="./icons/git.png"/>
   </a>
 </p>
 
