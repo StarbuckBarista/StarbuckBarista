@@ -8,8 +8,6 @@
   <img src="https://lanyard.cnrad.dev/api/348311499946721282?theme=dark&bg=00704a&borderRadius=15px&animated=false&idleMessage=%22I%27m%20not%20doing%20anything%20:p%22&hideDiscrim=false&hideStatus=false&hideTimestamp=false&hideBadges=false">
 </p>
 
-<br>
-
 <h3 align="center">
   Connect With Me
 </h3>
@@ -31,8 +29,6 @@
     <img alt="StarbuckBarista's Email" height="25px" src="./icons/proton_mail.png"/>
   </a>
 </p>
-
-<br>
 
 <h3 align="center">
   Languages and Tools I Use
@@ -72,8 +68,6 @@
   </a>
 </p>
 
-<br><br>
-
 <h3 align="center">
   GitHub Statistics
 </h3>
@@ -83,7 +77,9 @@
     <img alt="StarbuckBarista's GitHub Languages" height="200px" src="https://github-readme-stats-starbuckbarista.vercel.app/api/top-langs?username=starbuckbarista&count_private=true&show_icons=true&theme=darcula"/>
 </p>
 
-<br>
+<h3 align="center">
+  Recent Activity
+</h3>
 
 <p align="center">
   <!--START_SECTION:activity-->
