@@ -83,6 +83,6 @@
 
 <p align="center">
   <!--START_SECTION:activity-->
-1. 💪 Opened PR <a href="https://github.com/jamesgeorge007/github-activity-readme/pull/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a>
+1. 🎉 Merged PR <a href="https://github.com/StarbuckBarista/WordleSolver/pull/1">#1</a> in <a href="https://github.com/StarbuckBarista/WordleSolver">StarbuckBarista/WordleSolver</a>
   <!--END_SECTION:activity-->
 </p>
