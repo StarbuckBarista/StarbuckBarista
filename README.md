@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there, <strong>I'm Carlos - StarbuckBarista</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+  Hi there, <strong>I'm Carlos - StarbuckBarista</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 </h2>
 
 <p align="center">
