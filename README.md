@@ -83,6 +83,6 @@
 
 <p align="center">
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR <a href="https://github.com/OUT-Guild/OUT-Bot/pull/15">#15</a> in <a href="https://github.com/OUT-Guild/OUT-Bot">OUT-Guild/OUT-Bot</a>
+1. ❗️ Opened issue <a href="https://github.com/OUT-Guild/OUT-Bot/issues/16">#16</a> in <a href="https://github.com/OUT-Guild/OUT-Bot">OUT-Guild/OUT-Bot</a>
   <!--END_SECTION:activity-->
 </p>
