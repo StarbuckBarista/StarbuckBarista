@@ -83,6 +83,6 @@
 
 <p align="center">
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR <a href="https://github.com/FIRST1939/RapidReact2022/pull/80">#80</a> in <a href="https://github.com/FIRST1939/RapidReact2022">FIRST1939/RapidReact2022</a>
+1. 🎉 Merged PR <a href="https://github.com/FIRST1939/ElectronicsSimulator/pull/1">#1</a> in <a href="https://github.com/FIRST1939/ElectronicsSimulator">FIRST1939/ElectronicsSimulator</a>
   <!--END_SECTION:activity-->
 </p>
