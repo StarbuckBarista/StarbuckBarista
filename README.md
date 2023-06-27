@@ -81,8 +81,15 @@
   Recent Activity
 </h3>
 
-<p align="center">
-  <!--START_SECTION:activity-->
-1. ❌ Closed PR <a href="https://github.com/jamesgeorge007/github-activity-readme/pull/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a>
-  <!--END_SECTION:activity-->
-</p>
+<!--START_SECTION:activity-->
+<p align="center">1. </p>
+<p align="center">2. </p>
+<p align="center">3. </p>
+<p align="center">4. </p>
+<p align="center">5. </p>
+<p align="center">6. </p>
+<p align="center">7. </p>
+<p align="center">8. </p>
+<p align="center">9. </p>
+<p align="center">10. </p>
+<!--END_SECTION:activity-->
