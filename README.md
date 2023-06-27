@@ -83,6 +83,6 @@
 
 <p align="center">
   <!--START_SECTION:activity-->
-1. ❌ Closed PR <a href="https://github.com/jamesgeorge007/github-activity-readme/pull/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a>
+1. ❌ Closed PR [#74](https://github.com/jamesgeorge007/github-activity-readme/pull/74) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
   <!--END_SECTION:activity-->
 </p>
