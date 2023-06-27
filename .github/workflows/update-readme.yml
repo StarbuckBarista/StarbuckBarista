@@ -15,6 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USE_MARKDOWN: "false"
+          HTML_ENCODING: "true"
           COMMIT_MSG: ":zap: Updated Recent Activity"
           MAX_LINES: 10
