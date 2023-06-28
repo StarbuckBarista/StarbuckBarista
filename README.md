@@ -82,14 +82,14 @@
 </h3>
 
 <!--START_SECTION:activity-->
-<p align="center">1. ❌ Closed PR <a href="https://github.com/jamesgeorge007/github-activity-readme/pull/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></p>
-<p align="center">2. 🗣 Commented on <a href="https://github.com/jamesgeorge007/github-activity-readme/issues/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></p>
-<p align="center">3. </p>
-<p align="center">4. </p>
-<p align="center">5. </p>
-<p align="center">6. </p>
-<p align="center">7. </p>
-<p align="center">8. </p>
-<p align="center">9. </p>
-<p align="center">10. </p>
+<p align="center">1. [object Object]</p>
+<p align="center">2. [object Object]</p>
+<p align="center">3. [object Object]</p>
+<p align="center">4. [object Object]</p>
+<p align="center">5. [object Object]</p>
+<p align="center">6. [object Object]</p>
+<p align="center">7. [object Object]</p>
+<p align="center">8. [object Object]</p>
+<p align="center">9. [object Object]</p>
+<p align="center">10. [object Object]</p>
 <!--END_SECTION:activity-->
