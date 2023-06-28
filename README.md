@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  I'm a student, developer, and freelancer that's been programming for just over five years.
+  I'm a student, developer, and freelancer that's been programming for just over six years.
   <br>
 </p>
 
