@@ -82,8 +82,8 @@
 </h3>
 
 <!--START_SECTION:activity-->
-1. <p align="center">❌ Closed PR <a href="https://github.com/jamesgeorge007/github-activity-readme/pull/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></p>
-2. <p align="center">🗣 Commented on <a href="https://github.com/jamesgeorge007/github-activity-readme/issues/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></p>
+1. ❌ Closed PR <a href="https://github.com/jamesgeorge007/github-activity-readme/pull/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a>
+2. 🗣 Commented on <a href="https://github.com/jamesgeorge007/github-activity-readme/issues/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a>
 <p align="center">3. </p>
 <p align="center">4. </p>
 <p align="center">5. </p>
