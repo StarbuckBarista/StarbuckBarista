@@ -5,7 +5,7 @@
 <p align="center">
   I'm a student, developer, and freelancer that's been programming for just over five years.
   <br><br>
-  <img src="https://lanyard.cnrad.dev/api/348311499946721282?theme=dark&bg=00704a&borderRadius=15px&animated=false&idleMessage=%22I%27m%20not%20doing%20anything%20:p%22&hideDiscrim=false&hideStatus=false&hideTimestamp=false&hideBadges=false">
+  <img src="https://lanyard.cnrad.dev/api/348311499946721282?theme=dark&bg=00704a&borderRadius=15px&animated=false&idleMessage=%22I%27m%20not%20doing%20anything%20:p%22&showDisplayName=true&hideStatus=false&hideTimestamp=false&hideBadges=false&hideProfile=false">
 </p>
 
 <h3 align="center">
