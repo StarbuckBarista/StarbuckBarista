@@ -81,15 +81,17 @@
   Recent Activity
 </h3>
 
+<table align="center" border="4"><tr><td>
 <!--START_SECTION:activity-->
-<p align="center">1. ❌ Closed PR <a href="https://github.com/jamesgeorge007/github-activity-readme/pull/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></p>
-<p align="center">2. 💪 Opened PR <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/pull/7">#7</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="center">3. 🗣 Commented on <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/5">#5</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="center">4. ❗️ Closed issue <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/2">#2</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="center">5. 🗣 Commented on <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/5">#5</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="center">6. 🗣 Commented on <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/4">#4</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="center">7. 💪 Opened PR <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/pull/6">#6</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="center">8. 🗣 Commented on <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/2">#2</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="center">9. ❗️ Opened issue <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/5">#5</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="center">10. 🗣 Commented on <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/4">#4</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
+<p align="left">1. ❌ Closed PR <a href="https://github.com/jamesgeorge007/github-activity-readme/pull/74">#74</a> in <a href="https://github.com/jamesgeorge007/github-activity-readme">jamesgeorge007/github-activity-readme</a></p>
+<p align="left">2. 💪 Opened PR <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/pull/7">#7</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
+<p align="left">3. 🗣 Commented on <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/5">#5</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
+<p align="left">4. ❗️ Closed issue <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/2">#2</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
+<p align="left">5. 🗣 Commented on <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/5">#5</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
+<p align="left">6. 🗣 Commented on <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/4">#4</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
+<p align="left">7. 💪 Opened PR <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/pull/6">#6</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
+<p align="left">8. 🗣 Commented on <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/2">#2</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
+<p align="left">9. ❗️ Opened issue <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/5">#5</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
+<p align="left">10. 🗣 Commented on <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/4">#4</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
 <!--END_SECTION:activity-->
+</td></tr></table>
