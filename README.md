@@ -13,19 +13,19 @@
 
 <p align="center">
   <a title="StarbuckBarista's GitHub" href="https://github.com/StarbuckBarista/" target="_blank">
-    <img alt="StarbuckBarista's GitHub" height="25px" src="./icons/github.png"/>
+    <img alt="StarbuckBarista's GitHub" height="25px" src="./icons/connections/github.png"/>
   </a>
   &nbsp;
   <a title="StarbuckBarista's Stack Overflow" href="https://stackoverflow.com/users/12449444/starbuckbarista/" target="_blank">
-    <img alt="StarbuckBarista's Stack Overflow" height="25px" src="./icons/stack_overflow.png"/>
+    <img alt="StarbuckBarista's Stack Overflow" height="25px" src="./icons/connections/stack_overflow.png"/>
   </a>
   &nbsp;
   <a title="StarbuckBarista's Discord" href="https://discord.com/users/348311499946721282/" target="_blank">
-    <img alt="StarbuckBarista's Discord" height="25px" src="./icons/discord.png"/>
+    <img alt="StarbuckBarista's Discord" height="25px" src="./icons/connections/discord.png"/>
   </a>
   &nbsp;
   <a title="StarbuckBarista's Email" href="mailto:carlitos.salazar@protonmail.com" target="_blank">
-    <img alt="StarbuckBarista's Email" height="25px" src="./icons/proton_mail.png"/>
+    <img alt="StarbuckBarista's Email" height="25px" src="./icons/connections/proton_mail.png"/>
   </a>
 </p>
 
@@ -35,35 +35,35 @@
 
 <p align="center">
   <a title="HTML" href="" target="_blank">
-    <img alt="HTML" height="25px" src="./icons/html.png"/>
+    <img alt="HTML" height="25px" src="./icons/resources/html.png"/>
   </a>
   &nbsp;
   <a title="CSS" href="" target="_blank">
-    <img alt="CSS" height="25px" src="./icons/css.png"/>
+    <img alt="CSS" height="25px" src="./icons/resources/css.png"/>
   </a>
   &nbsp;
   <a title="JavaScript" href="" target="_blank">
-    <img title="JavaScript" alt="JavaScript" height="25px" src="./icons/javascript.png"/>
+    <img title="JavaScript" alt="JavaScript" height="25px" src="./icons/resources/javascript.png"/>
   </a>
   &nbsp;
   <a title="Python" href="python.org" target="_blank">
-    <img alt="Python" height="25px" src="./icons/python.png"/>
+    <img alt="Python" height="25px" src="./icons/resources/python.png"/>
   </a>
   &nbsp;
   <a title="Java" href="" target="_blank">
-    <img alt="Java" height="25px" src="./icons/java.png"/>
+    <img alt="Java" height="25px" src="./icons/resources/java.png"/>
   </a>
   &nbsp;
   <a title="Node" href="nodejs.org" target="_blank">
-    <img alt="Node" height="25px" src="./icons/node.png"/>
+    <img alt="Node" height="25px" src="./icons/resources/node.png"/>
   </a>
   &nbsp;
   <a title="MongoDB" href="mongodb.com" target="_blank">
-    <img alt="MongoDB" height="25px" src="./icons/mongo.png"/>
+    <img alt="MongoDB" height="25px" src="./icons/resources/mongo.png"/>
   </a>
   &nbsp;
   <a title="Git" href="git-scm.com" target="_blank">
-    <img alt="Git" height="25px" src="./icons/git.png"/>
+    <img alt="Git" height="25px" src="./icons/resources/git.png"/>
   </a>
 </p>
 
