@@ -34,35 +34,35 @@
 </h3>
 
 <p align="center">
-  <a title="HTML" href="" target="_blank">
+  <a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank">
     <img alt="HTML" height="25px" src="./icons/resources/html.png"/>
   </a>
   &nbsp;
-  <a title="CSS" href="" target="_blank">
+  <a title="CSS" href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank">
     <img alt="CSS" height="25px" src="./icons/resources/css.png"/>
   </a>
   &nbsp;
-  <a title="JavaScript" href="" target="_blank">
+  <a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript/" target="_blank">
     <img title="JavaScript" alt="JavaScript" height="25px" src="./icons/resources/javascript.png"/>
   </a>
   &nbsp;
-  <a title="Python" href="python.org" target="_blank">
+  <a title="Python" href="https://python.org/" target="_blank">
     <img alt="Python" height="25px" src="./icons/resources/python.png"/>
   </a>
   &nbsp;
-  <a title="Java" href="" target="_blank">
+  <a title="Java" href="https://java.com/" target="_blank">
     <img alt="Java" height="25px" src="./icons/resources/java.png"/>
   </a>
   &nbsp;
-  <a title="Node" href="nodejs.org" target="_blank">
+  <a title="Node" href="https://nodejs.org/" target="_blank">
     <img alt="Node" height="25px" src="./icons/resources/node.png"/>
   </a>
   &nbsp;
-  <a title="MongoDB" href="mongodb.com" target="_blank">
+  <a title="MongoDB" href="https://mongodb.com/" target="_blank">
     <img alt="MongoDB" height="25px" src="./icons/resources/mongo.png"/>
   </a>
   &nbsp;
-  <a title="Git" href="git-scm.com" target="_blank">
+  <a title="Git" href="https://git-scm.com/" target="_blank">
     <img alt="Git" height="25px" src="./icons/resources/git.png"/>
   </a>
 </p>
