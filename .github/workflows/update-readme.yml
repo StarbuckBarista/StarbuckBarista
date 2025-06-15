@@ -17,14 +17,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install Action Dependencies
-        working-directory: ./action
+      - name: Checkout Action Code
+        uses: actions/checkout@v3
+        with:
+          repository: StarbuckBarista/profile-updater
+          path: updater
+
+      - name: Install Action dependencies
+        working-directory: updater/action
         run: npm ci
 
-      - name: Run README Updater
-        uses: StarbuckBarista/profile-activity/assets@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run Activity Updater
+        run: node updater/action/index.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit Changes
         run: |
