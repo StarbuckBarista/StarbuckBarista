@@ -29,9 +29,9 @@ jobs:
         run: npm ci
 
       - name: Run Activity Updater
-        run: node updater/action/index.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: ./updater/action
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit Changes
         run: |
