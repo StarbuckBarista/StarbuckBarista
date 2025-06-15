@@ -84,17 +84,5 @@
   <img src="https://lanyard.cnrad.dev/api/348311499946721282?theme=dark&bg=00704a&borderRadius=15px&animated=false&idleMessage=%22I%27m%20not%20doing%20anything%20:p%22&showDisplayName=true&hideStatus=false&hideTimestamp=false&hideBadges=false&hideProfile=false">
 </p>
 
-<table align="center" border="4"><tr><td>
-<!--START_SECTION:activity-->
-<p align="left">1.  <img alt="Opened" height="24px" valign="bottom" src="./icons/activities/opened_pull_request.png">  PR <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/pull/12">#12</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="left">2.  <img alt="Opened" height="24px" valign="bottom" src="./icons/activities/opened_pull_request.png">  PR <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/pull/11">#11</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="left">3.  <img alt="Opened" height="24px" valign="bottom" src="./icons/activities/opened_issue.png">  Issue <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/10">#10</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="left">4.  <img alt="Opened" height="24px" valign="bottom" src="./icons/activities/opened_issue.png">  Issue <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/9">#9</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="left">5.  <img alt="Commented on" height="24px" valign="bottom" src="./icons/activities/commented_on.png">  Issue <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/issues/8">#8</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="left">6.  <img alt="Opened" height="24px" valign="bottom" src="./icons/activities/opened_pull_request.png">  PR <a href="https://github.com/JetBrains/swot/pull/18049">#18049</a> in <a href="https://github.com/JetBrains/swot">JetBrains/swot</a></p>
-<p align="left">7.  <img alt="Opened" height="24px" valign="bottom" src="./icons/activities/opened_pull_request.png">  PR <a href="https://github.com/TheCrossboneColonies/PathFinderAPI/pull/8">#8</a> in <a href="https://github.com/TheCrossboneColonies/PathFinderAPI">TheCrossboneColonies/PathFinderAPI</a></p>
-<p align="left">8.  <img alt="Merged" height="24px" valign="bottom" src="./icons/activities/merged_pull_request.png">  PR <a href="https://github.com/StarbuckBarista/StarbuckBarista/pull/1">#1</a> in <a href="https://github.com/StarbuckBarista/StarbuckBarista">StarbuckBarista/StarbuckBarista</a></p>
-<p align="left">9.  <img alt="Merged" height="24px" valign="bottom" src="./icons/activities/merged_pull_request.png">  PR <a href="https://github.com/StarbuckBarista/github-activity-readme/pull/1">#1</a> in <a href="https://github.com/StarbuckBarista/github-activity-readme">StarbuckBarista/github-activity-readme</a></p>
-<p align="left">10.  <img alt="Opened" height="24px" valign="bottom" src="./icons/activities/opened_pull_request.png">  PR <a href="https://github.com/StarbuckBarista/github-activity-readme/pull/1">#1</a> in <a href="https://github.com/StarbuckBarista/github-activity-readme">StarbuckBarista/github-activity-readme</a></p>
-<!--END_SECTION:activity-->
-</td></tr></table>
+<!-- ACTIVITY_START -->
+<!-- ACTIVITY_END -->
