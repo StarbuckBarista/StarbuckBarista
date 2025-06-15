@@ -20,7 +20,7 @@ jobs:
       - name: Checkout Action Code
         uses: actions/checkout@v3
         with:
-          repository: StarbuckBarista/profile-updater
+          repository: StarbuckBarista/profile-activity
           ref: master
           path: updater
 
