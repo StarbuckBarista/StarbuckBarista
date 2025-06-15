@@ -22,7 +22,7 @@ jobs:
         run: npm ci
 
       - name: Run README Updater
-        uses: StarbuckBarista/profile-updater/assets@master
+        uses: StarbuckBarista/profile-activity/assets@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
