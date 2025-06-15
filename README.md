@@ -1,88 +1,47 @@
-<h2 align="center">
-  Hi there, <strong>I'm Carlos - StarbuckBarista</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
-</h2>
+# Hi there, I'm Carlos - StarbuckBarista <img alt="👋" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+I'm a student developer who's been programming for just over eight years.
 
-<p align="center">
-  I'm a student, developer, and freelancer that's been programming for just over six years.
-  <br>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlitos-salazar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.salazar@barstowschool.org)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/348311499946721282/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12449444/starbuckbarista/)
 
-<h3 align="center">
-  Connect With Me
-</h3>
+</br>
 
-<p align="center">
-  <a title="StarbuckBarista's GitHub" href="https://github.com/StarbuckBarista/" target="_blank">
-    <img alt="StarbuckBarista's GitHub" height="25px" src="./icons/connections/github.png"/>
-  </a>
-  &nbsp;
-  <a title="StarbuckBarista's Stack Overflow" href="https://stackoverflow.com/users/12449444/starbuckbarista/" target="_blank">
-    <img alt="StarbuckBarista's Stack Overflow" height="25px" src="./icons/connections/stack_overflow.png"/>
-  </a>
-  &nbsp;
-  <a title="StarbuckBarista's Discord" href="https://discord.com/users/348311499946721282/" target="_blank">
-    <img alt="StarbuckBarista's Discord" height="25px" src="./icons/connections/discord.png"/>
-  </a>
-  &nbsp;
-  <a title="StarbuckBarista's Email" href="mailto:carlitos.salazar@protonmail.com" target="_blank">
-    <img alt="StarbuckBarista's Email" height="25px" src="./icons/connections/proton_mail.png"/>
-  </a>
-</p>
+### Languages:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<h3 align="center">
-  Languages and Tools I Use
-</h3>
+### Tools:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/vs%20code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="center">
-  <a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank">
-    <img alt="HTML" height="25px" src="./icons/resources/html.png"/>
-  </a>
-  &nbsp;
-  <a title="CSS" href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank">
-    <img alt="CSS" height="25px" src="./icons/resources/css.png"/>
-  </a>
-  &nbsp;
-  <a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript/" target="_blank">
-    <img title="JavaScript" alt="JavaScript" height="25px" src="./icons/resources/javascript.png"/>
-  </a>
-  &nbsp;
-  <a title="Python" href="https://python.org/" target="_blank">
-    <img alt="Python" height="25px" src="./icons/resources/python.png"/>
-  </a>
-  &nbsp;
-  <a title="Java" href="https://java.com/" target="_blank">
-    <img alt="Java" height="25px" src="./icons/resources/java.png"/>
-  </a>
-  &nbsp;
-  <a title="Node" href="https://nodejs.org/" target="_blank">
-    <img alt="Node" height="25px" src="./icons/resources/node.png"/>
-  </a>
-  &nbsp;
-  <a title="MongoDB" href="https://mongodb.com/" target="_blank">
-    <img alt="MongoDB" height="25px" src="./icons/resources/mongo.png"/>
-  </a>
-  &nbsp;
-  <a title="Git" href="https://git-scm.com/" target="_blank">
-    <img alt="Git" height="25px" src="./icons/resources/git.png"/>
-  </a>
-</p>
+### Databases:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3 align="center">
-  GitHub Statistics
-</h3>
+### Learning Platforms:
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<p align="center">
-    <img alt="StarbuckBarista's GitHub Stats" height="200px" src="https://github-readme-stats-starbuckbarista.vercel.app/api?username=starbuckbarista&count_private=true&show_icons=true&theme=darcula"/>
-    <img alt="StarbuckBarista's GitHub Languages" height="200px" src="https://github-readme-stats-starbuckbarista.vercel.app/api/top-langs?username=starbuckbarista&count_private=true&show_icons=true&theme=darcula"/>
-</p>
+### Music:
+![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
-<h3 align="center">
-  Recent Activity
-</h3>
+</br>
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/348311499946721282?theme=dark&bg=00704a&borderRadius=15px&animated=false&idleMessage=%22I%27m%20not%20doing%20anything%20:p%22&showDisplayName=true&hideStatus=false&hideTimestamp=false&hideBadges=false&hideProfile=false">
-</p>
+### GitHub Statistics:
+
+[![StarbuckBarista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarbuckBarista&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
+[![StarbuckBarista's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarbuckBarista&langs_count=4&layout=compact&custom_title=StarbuckBarista's%20Top%20Languages&card_width=360&theme=dark")](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+### Recent Activity:
 
 <!-- ACTIVITY_START -->
 <img src="https://raw.githubusercontent.com/StarbuckBarista/profile-activity/refs/heads/master/assets/badges/pushed.svg" width="24" height="24" valign="bottom"/>&nbsp; Pushed 2 commits to [StarbuckBarista/profile-activity](https://api.github.com/repos/StarbuckBarista/profile-activity)
@@ -101,3 +60,7 @@
 
 
 <!-- ACTIVITY_END -->
+
+</br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=80" width="100%" />
