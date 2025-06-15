@@ -1,20 +1,35 @@
-name: GitHub - Activity - Readme
+name: Update Profile README
+
+permissions:
+  contents: write
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: StarbuckBarista/github-activity-readme@master
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      - name: Checkout Repo
+        uses: actions/checkout@v3
         with:
-          HTML_ENCODING: "true"
-          COMMIT_MSG: ":zap: Updated Recent Activity"
-          MAX_LINES: 10
+          fetch-depth: 0
+
+      - name: Install Action Dependencies
+        working-directory: ./action
+        run: npm ci
+
+      - name: Run README Updater
+        uses: StarbuckBarista/profile-updater/assets@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Chore: Update Activity" || echo "No Changes to Commit"
+          git push
