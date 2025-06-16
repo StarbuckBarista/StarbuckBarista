@@ -31,15 +31,18 @@
 
 </br>
 
-### GitHub Statistics:
+<table><tr>
+
+<th width="480">GitHub Statistics</th>
+<th width="480">Recent Activity</th>
+
+</tr><tr><td>
 
 <img src="https://github-readme-stats.vercel.app/api?username=StarbuckBarista&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&ring_color=79ff97&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarbuckBarista&langs_count=4&layout=compact&custom_title=StarbuckBarista's%20Top%20Languages&card_width=360&theme=dark"/>
 
-</br>
-
-### Recent Activity:
+</td><td>
 
 <!-- ACTIVITY_START -->
 <img src="https://raw.githubusercontent.com/StarbuckBarista/profile-activity/refs/heads/master/assets/badges/pushed.svg" width="24" height="24" valign="bottom"/>&nbsp; Pushed 2 commits to [StarbuckBarista/profile-activity](https://api.github.com/repos/StarbuckBarista/profile-activity)
@@ -55,10 +58,10 @@
 <img src="https://raw.githubusercontent.com/StarbuckBarista/profile-activity/refs/heads/master/assets/badges/pr_merged.svg" width="24" height="24" valign="bottom"/>&nbsp; Closed [Pull Request #24](https://github.com/FIRST1939/Reefscape2025/pull/24) in [FIRST1939/Reefscape2025](https://api.github.com/repos/FIRST1939/Reefscape2025)
 
 <img src="https://raw.githubusercontent.com/StarbuckBarista/profile-activity/refs/heads/master/assets/badges/pr_opened.svg" width="24" height="24" valign="bottom"/>&nbsp; Opened [Pull Request #24](https://github.com/FIRST1939/Reefscape2025/pull/24) in [FIRST1939/Reefscape2025](https://api.github.com/repos/FIRST1939/Reefscape2025)
-
-
 <!-- ACTIVITY_END -->
+
+</td></tr></table>
 
 </br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=80" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=80" width="960" />
