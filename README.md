@@ -57,4 +57,4 @@
 
 </br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=80" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=gradient&customColorList=2" width="100%"/>
