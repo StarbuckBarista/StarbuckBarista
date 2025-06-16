@@ -1,12 +1,10 @@
-# Hi there, I'm Carlos - StarbuckBarista <img alt="👋" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
-I'm a student developer who's been programming for just over eight years.
+<img src="https://socialify.git.ci/StarbuckBarista/StarbuckBarista/image?custom_description=Aspiring+Computer+Engineer+%7C+FIRST+Dean%27s+List+Finalist%0A%0A&description=1&font=Raleway&logo=https%3A%2F%2Fgithub.com%2FStarbuckBarista%2FStarbuckBarista%2Fblob%2Febcf0bf3878d4c00ae79329992b80a8727a24f18%2Fassets%2Favatar.png%3Fraw%3Dtrue&pattern=Plus&theme=Dark" alt="Hi there, I'm Carlos - StarbuckBarista 👋" width="640" height="320" />
 
+### Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlitos-salazar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.salazar@barstowschool.org)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/348311499946721282/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12449444/starbuckbarista/)
-
-</br>
 
 ### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
