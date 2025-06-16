@@ -33,8 +33,8 @@
 
 <table><tr>
 
-<th width="480">GitHub Statistics</th>
-<th width="480">Recent Activity</th>
+<th width="50%">GitHub Statistics</th>
+<th width="50%">Recent Activity</th>
 
 </tr><tr><td>
 
@@ -64,4 +64,4 @@
 
 </br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=80" width="960" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=80" width="100%" />
