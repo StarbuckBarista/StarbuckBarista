@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/StarbuckBarista/StarbuckBarista/image?custom_description=Aspiring+Computer+Engineer+%7C+FIRST+Dean%27s+List+Finalist%0A%0A&description=1&font=Raleway&logo=https%3A%2F%2Fgithub.com%2FStarbuckBarista%2FStarbuckBarista%2Fblob%2Febcf0bf3878d4c00ae79329992b80a8727a24f18%2Fassets%2Favatar.png%3Fraw%3Dtrue&pattern=Plus&theme=Dark" alt="Hi there, I'm Carlos - StarbuckBarista 👋" width="640" height="320" />
+<img src="https://socialify.git.ci/StarbuckBarista/StarbuckBarista/image?custom_description=Aspiring+Computer+Engineer+%7C+FIRST+Dean%27s+List+Finalist%0A%0A&description=1&font=Raleway&logo=https%3A%2F%2Fgithub.com%2FStarbuckBarista%2FStarbuckBarista%2Fblob%2Febcf0bf3878d4c00ae79329992b80a8727a24f18%2Fassets%2Favatar.png%3Fraw%3Dtrue&pattern=Plus&theme=Dark" alt="Hi there, I'm Carlos - StarbuckBarista 👋" height="320" />
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlitos-salazar)
@@ -33,9 +33,9 @@
 
 ### GitHub Statistics:
 
-[![StarbuckBarista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarbuckBarista&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=StarbuckBarista&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&ring_color=79ff97&theme=dark"/>
 
-[![StarbuckBarista's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarbuckBarista&langs_count=4&layout=compact&custom_title=StarbuckBarista's%20Top%20Languages&card_width=360&theme=dark")](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarbuckBarista&langs_count=4&layout=compact&custom_title=StarbuckBarista's%20Top%20Languages&card_width=360&theme=dark"/>
 
 </br>
 
