@@ -38,7 +38,9 @@
 </td><td>
 
 <!-- ACTIVITY_START -->
-<img src="https://raw.githubusercontent.com/StarbuckBarista/profile-activity/refs/heads/master/assets/badges/pushed.svg" width="24" height="24" valign="bottom"/>&nbsp; Pushed 2 commits to [StarbuckBarista/profile-activity](https://api.github.com/repos/StarbuckBarista/profile-activity)
+<img src="https://raw.githubusercontent.com/StarbuckBarista/profile-activity/refs/heads/master/assets/badges/pushed.svg" width="24" height="24" valign="bottom"/>&nbsp; Pushed 1 commit to [StarbuckBarista/profile-activity](https://api.github.com/repos/StarbuckBarista/profile-activity)
+
+<img src="https://raw.githubusercontent.com/StarbuckBarista/profile-activity/refs/heads/master/assets/badges/pushed.svg" width="24" height="24" valign="bottom"/>&nbsp; Pushed 3 commits to [StarbuckBarista/StarbuckBarista](https://api.github.com/repos/StarbuckBarista/StarbuckBarista)
 
 <img src="https://raw.githubusercontent.com/StarbuckBarista/profile-activity/refs/heads/master/assets/badges/pushed.svg" width="24" height="24" valign="bottom"/>&nbsp; Pushed 7 commits to [StarbuckBarista/StarbuckBarista](https://api.github.com/repos/StarbuckBarista/StarbuckBarista)
 
