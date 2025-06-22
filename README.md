@@ -10,18 +10,19 @@
 [![Java](https://tinyurl.com/4sca25vm)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=333)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-### Tools:
+### Tools & Editors:
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![VSCode](https://tinyurl.com/5ysuxv95)](https://code.visualstudio.com/)
-[![Power BI](https://tinyurl.com/3tnm47ep)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [![Bootstrap Studio](https://tinyurl.com/wzmmh5d)](https://bootstrapstudio.io/)
 
-### Databases:
+### Data Platforms:
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Power BI](https://tinyurl.com/3tnm47ep)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 </br>
 
