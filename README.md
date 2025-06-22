@@ -15,9 +15,9 @@
 
 ### Tools:
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VSCode](https://img.shields.io/badge/vs%20code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+[![Power BI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+[![Bootstrap Studio](https://img.shields.io/badge/bootstrap%20studio-e046b4?style=for-the-badge)](https://bootstrapstudio.io/)
 
 ### Databases:
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
